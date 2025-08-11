@@ -1,17 +1,24 @@
 # Hi, I'm Xiaowenxiao 👋
 
-I'm a passionate ops enthusiast and software tinkerer. I love "折腾" things and finding elegant solutions to complex problems. Whether it's through automation with **Shell** or building tools with **Go**, I enjoy optimizing systems and workflows. 🚀
+I'm a passionate ops enthusiast and software tinkerer. I love "messing around" with systems and finding elegant solutions to complex problems. Whether it's through automation with **Shell** or building tools with **Go**, I enjoy optimizing systems and workflows. 🚀
 
-Currently, I'm working as a DevOps engineer, and I'm always looking for new ways to improve efficiency and streamline processes.
+Currently, I'm working as a DevOps engineer, always looking for new ways to improve efficiency and streamline processes.
 
 🔧 **Skills**: Shell, Go, GitHub Actions, CI/CD, Docker, Kubernetes, Linux System Administration
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Shell, Go
-- **Tools**: Docker, Kubernetes, Terraform, Ansible, GitLab CI, Jenkins
-- **Cloud**: AWS, GCP, Azure
-- **Operating Systems**: Linux (CentOS, Ubuntu, Red Hat)
+- **Languages**: 
+  - ![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+- **Tools**: 
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+  - ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white)
+  - ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat&logo=gitlab-ci&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+- **Cloud**: 
+  - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+  - ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+- **Operating Systems**: 
+  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📂 Projects
 
@@ -25,10 +32,7 @@ Currently, I'm working as a DevOps engineer, and I'm always looking for new ways
 
 ## 📬 Get in Touch
 
-- 📧 Email: xiaowenxiao@example.com
-- 🐦 Twitter: [@xiaowenxiao](https://twitter.com/xiaowenxiao)
-- 🌐 Website: [xiaowenxiao.com](https://xiaowenxiao.com)
-- 💼 LinkedIn: [Xiaowenxiao](https://www.linkedin.com/in/xiaowenxiao)
+- 📧 Email: [120459905@qq.com](mailto:120459905@qq.com)
 
 ## 🎯 Fun Facts
 
